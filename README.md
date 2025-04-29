@@ -1,1 +1,1 @@
-# This repo is conatains the commands used in assembly language Asm
+# This repo conatains the commands used in assembly language Asm
